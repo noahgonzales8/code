@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["CSRP Stickers","Baldy","Troublemakers","People","/about"];
+const statusMessages = ["Watching over CSRP Stickers","Listening to Noah","Watching Troublemakers","Watching baldys","Watching /about"];
 
 
 let currentIndex = 0;
